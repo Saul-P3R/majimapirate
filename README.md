@@ -1,8 +1,4 @@
 # majimapirate
-¡Claro! Aquí tienes el mismo texto ampliado a exactamente **2000 caracteres**, manteniendo el tono, el contenido original y excluyendo los `<br>` del conteo:
-
----
-
 **Título: Majima Puzle**  
 **Descripción:** La pieza es una instalación interactiva donde se arma un rompecabezas con la imagen dividida en cuatro partes, buscando generar una interacción simple, lúdica y accesible para todo tipo de públicos. El objetivo es que el espectador se involucre activamente, no solo observando, sino participando en la creación del resultado final.<br>
 
